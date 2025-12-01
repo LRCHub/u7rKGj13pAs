@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Crazy Over You",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-01T06:43:52.001336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "Foster and Lloyd",
+      "has_synced": true,
+      "path": "select/01_Crazy_Over_You_Foster_and_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy over You",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/02_Crazy_over_You_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "Colin James",
+      "has_synced": true,
+      "path": "select/03_Crazy_Over_You_Colin_James.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy Over You - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_Crazy_Over_You_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_Crazy_Over_You_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_Crazy_Over_You_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "112",
+      "has_synced": true,
+      "path": "select/07_Crazy_Over_You_112.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_Crazy_Over_You_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_Crazy_Over_You_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_Crazy_Over_You_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "Ricky Van Shelton",
+      "has_synced": false,
+      "path": "select/11_Crazy_Over_You_Ricky_Van_Shelton.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy Over You (Original Mix)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_Crazy_Over_You_(Original_Mix)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy Over You (Instrumental)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_Crazy_Over_You_(Instrumental)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_Crazy_Over_You_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crazy over You",
+      "artist": "Sonta",
+      "has_synced": true,
+      "path": "select/15_Crazy_over_You_Sonta.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crazy Over You",
+      "artist": "KSM",
+      "has_synced": false,
+      "path": "select/16_Crazy_Over_You_KSM.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crazy Over You - Featuring Foster & Lloyd",
+      "artist": "Keith Anderson",
+      "has_synced": false,
+      "path": "select/17_Crazy_Over_You_-_Featuring_Foster_&_Lloyd_Keith_Anderson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Crazy Over You (feat. Foster & Lloyd)",
+      "artist": "Keith Anderson",
+      "has_synced": false,
+      "path": "select/18_Crazy_Over_You_(feat._Foster_&_Lloyd)_Keith_Anderson.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Crazy over You",
+      "artist": "Shane Filan",
+      "has_synced": true,
+      "path": "select/19_Crazy_over_You_Shane_Filan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Over_You_BLACKPINK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_02_Crazy_Over_You_BLACKPINK.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Crazy Over You",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_03_Crazy_Over_You_BLACKPINK.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Crazy over you",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_04_Crazy_over_you_BLACKPINK.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Crazy over you",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_05_Crazy_over_you_BLACKPINK.txt"
+    }
+  ]
+}
